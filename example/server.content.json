@@ -1,0 +1,5 @@
+{
+  "error404": "Page not found",
+  "error500": "Oops! Something went wrong",
+  "success200": "Successfully did something"
+}

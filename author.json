@@ -1,0 +1,5 @@
+[
+  "./example/app.content.json",
+  "./example/server.content.json",
+  "./example/ui/ui.content.json"
+]

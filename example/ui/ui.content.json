@@ -1,0 +1,7 @@
+{
+  "buttonNext": "Next",
+  "buttonBack": "Back",
+  "errorRequired": "This field is required",
+  "errorMinLength": "This field is too short",
+  "successLogin": "Successfully logged in"
+}
